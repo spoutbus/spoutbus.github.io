@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://spoutbus.github.io/sitemap/sitemap.txt
